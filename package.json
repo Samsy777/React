@@ -1,0 +1,15 @@
+{
+  "name": "React",
+  "version": "1.0.0",
+  "main": "lib/server.js",
+  "repository": "https://github.com/Samsy777/React.git",
+  "author": "samsheer raza khan <samsheer@leewayhertz.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.32.0"
+  },
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  }
+}
